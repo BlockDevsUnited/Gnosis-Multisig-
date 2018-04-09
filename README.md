@@ -3,9 +3,17 @@ Ethereum Multisignature Wallet
 
 This is the code for the Gnosis multisig wallet. I have created a demo video.
 
-Youtube: coming soon
+Youtube:
 
-IPFS Hash: coming soon 
+Deployment and use with interface -  https://www.youtube.com/watch?v=YLyJ7TxbOh0&t=11s   - deplyment and use with interface
+
+- Deployment with Remix use with MEW/MIST - coming soon
+
+-Deployment with Truffle use with MEW/MIST - coming soon 
+
+IPFS Hash: 
+Deployment and use with interface -  
+QmVDmdui5CBPZgQx9xwr5xY418i631axBFcAgsxdNfpUTA
 
 Interface used: https://github.com/gnosis/MultiSigWallet/releases
 
