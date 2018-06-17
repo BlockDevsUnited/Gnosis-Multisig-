@@ -5,7 +5,8 @@ This is the code for the Gnosis multisig wallet. I have created a demo video.
 
 Youtube:
 
-Deployment and use with interface -  https://www.youtube.com/watch?v=YLyJ7TxbOh0&t=11s   - deplyment and use with interface
+Deployment and use with interface - https://www.youtube.com/watch?v=052vl2MZTOg&t=5s
+
 
 - Deployment with Remix use with MEW/MIST - coming soon
 
